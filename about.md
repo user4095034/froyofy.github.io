@@ -4,8 +4,9 @@ title: 关于我
 ---
 
 <p class="message">
-  “不要在网上泄露个人隐私”
+  “别在网上泄露个人隐私。”
     <p align="right">——我妈
+
 
 </p>
     </p>
