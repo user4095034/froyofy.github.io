@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/froyofy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.froyofy.com
+  * I am froyofy (https://keybase.io/froyofy) on keybase.
+  * I have a public key with fingerprint BBD7 EC1C D1C7 C12F D095  70F8 5E83 F356 2ABE 34CC
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012082b49a78caef1f7e3c6f9cf5ff31c62d99adb8bf44907898c06d1b605ee0da770a",
+      "fingerprint": "bbd7ec1cd1c7c12fd09570f85e83f3562abe34cc",
+      "host": "keybase.io",
+      "key_id": "5e83f3562abe34cc",
+      "kid": "01018871094d058150b197161f0249ac5669f5a444d534faccb23c49e5b08e722fc30a",
+      "uid": "2444e5c6265440c3f7c42594054d7419",
+      "username": "froyofy"
+    },
+    "service": {
+      "hostname": "www.froyofy.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1614042143,
+  "expire_in": 157680000,
+  "prev": "226b436ffdb0e6d7531c386fb610aed0f6e7a955d678a73e2ffeca1116e2d2c7",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNxAnicbZJ7UBVVAMZBIBOEnJwojIcuyjAMwtn37h0vaT4aEB9Agkpw3T17Du4A
+dy/3XrjdgMpJYHyM8VIIJLImdWSMQRqBaqyLIkiolcQkKI5hQRAODMEfZNZeBv9r
+/zmz5/y+73zfOeeav5eHr2fmBzOpUVeYPs/vXXX5HgeYN8MKCVlTnIShkMhGCwPK
+UZDNbspWFcJAAJICAiUzosQLUEKYxDyiIYdFiFmMaRJylCKKkiILMmYYEfCCKEDA
+KaTMARYhoEg8DyQimsCqOQtZLVbVbNdtZVnhESShQkIekhRWgMjyAAssEmhMsxwl
+yYhmINSFBzWbW6GHkyUbilE1fU7/MS3E+x/+WW5ACgJPApFRACuQLJBJkSc5EgNK
+LwNZjhMxKzEMo7A0gyUIZYqGjIhYGQiIpygM6YXc+Qt2lA4iVi/LsQwDII15yFCs
+yACWUXiGFN2gDVnNUi7SaWzVnBp2EsXRhD5ZoELkPld3kUXA4XDELEIxUMvV1Rar
+ZteglqMvHrTbLTaDW2x3WhZoJJsWfUyyalb0k9QVBchqUzUzYSB1EtpVt7HejwEM
+RTJ0NIHetqhWZFLdBMtzAtA/9z6owN2H4mSG5jBWZIA4hWf1m6QFDsscCSSkAMwh
+XhJZVuF4QeJpRGGMoESSJIcohYI84W6WZ9Z0b0rPKWXpnjY1yyzZ862IKO50veXt
+4enr8ZzPEvcT8/BdtuLZwxv3eOGpcTgjYjBW9E8b8OpelTm5fthxJvne0eKmQ6de
+VMo775/4NnTHNH3r9mdzESETq6IHAzK7j//8aOhJY8/6wWaY8rDML+ph19hfVZGX
+nq8P/70qPr/tbtG8gx/8Rdp6Pw2Fj86sOSukj+LlExl/bzVWZMZe2Ivt2zZlVRSF
+79s79+DG1V2h0Y5XssYm4ozNmwzcv36dbeOO4LPO4Nxy49ySjsSrhtixM93zGzx7
+SoM63vD5s6R+KiHCfrIys72mTQMfvtSVvnpna4f2oCU1Z8pU3lvXMWDbbjl9eGL6
+64DhHUHtjcrlgu/OtfpkB468fufLiVHKWBC/1Fr+eeCaQEd+6ThZurYaDm1c54rc
+hmu/+QdsHKyNSBJ/bS68cg5cZ+7t9/+hIeFo4cWBfmN6aMV0egs+vPlYNnnyk8tP
+yfNTcdbZqtnEA5XZH8WvSG20utiVwRUNtrTk2snRa/27B0493ll2aLm0K0kNKgrB
+4cG1ges+jUxPqcv4eE9R3k3/35BhZGj1pfcT3nn06oWeY2zYst5ZS8trLzupW01d
+fjN3SqJSE9/b3Lw70mh7krjvxtRt8XFG6/ktW9rLUmIkLWiPl7lmtnHtsHdeQ868
+GNdYze7vq7dXb8kI+Gn7zaVHRkLuNudUep5OeHdl08UN/dOd+I+vknpd1/tcNSXO
+ybCAlC+IIyd+9B5Nxpb/AJXuwX8=
+=FVlu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/froyofy
+
+==================================================================
