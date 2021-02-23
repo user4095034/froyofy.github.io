@@ -6,7 +6,8 @@ title: 关于我
 <p class="message">
   以下仅包括我的联系方式
 </p>
-
 [Instagram 冻酸奶化 (@froyofy)](https://www.instagram.com/froyofy/)
+
 [电邮](mailto:froyofy@outlook.com)
+
 [电报](https://t.me/froyofy)
