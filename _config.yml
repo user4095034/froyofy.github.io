@@ -2,7 +2,6 @@
 title: froyofy
 url: https://www.froyofy.com/
 paginate: 1
-paginate_path: "/baseurl/page:num/"
 baseurl: ""
 permalink: pretty
 
@@ -47,3 +46,7 @@ nav:
 
   - title: About
     url: /about
+    
+  - title: MIT license
+    url: /LICENSE
+    
