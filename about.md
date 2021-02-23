@@ -11,3 +11,5 @@ title: 关于我
 [电邮](mailto:froyofy@outlook.com)
 
 [电报](https://t.me/froyofy)
+
+Released under the [MIT license](LICENSE.md).
