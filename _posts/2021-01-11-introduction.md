@@ -7,4 +7,4 @@ Home Page
 
 -----
 
-先占个坑
+先占个坑<br> Released under the [MIT license](LICENSE.md).
