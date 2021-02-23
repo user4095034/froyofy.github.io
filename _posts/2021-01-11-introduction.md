@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Home Page
+title: 测试文章
 ---
 
-Home Page
+Test
 
 -----
 
-先占个坑<br> Released under the [MIT license](LICENSE.md).
+这是一篇测试文章
