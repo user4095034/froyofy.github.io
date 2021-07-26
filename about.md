@@ -11,7 +11,8 @@ title: 关于我
 
 
 
-
+<a href="/assets/ACEF.pdf" target="_blank">Download</a>
+<a href="/assets/ACEF.pdf">Link 1</a>
 
 
 
