@@ -1,6 +1,6 @@
 # Setup
-title: froyofy 冻酸奶化
-url: https://www.froyofy.com/
+title: Yiteng Wang
+url: https://www.wangyiteng.co.uk/
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -31,9 +31,9 @@ ga_analytics: UA-190330073-1
 
 # Specify the author for blog posts
 author:
-  name: froyofy
-  url: https://instagram.com/froyofy
-  email: froyofy@outlook.com
+  name: Yiteng Wang
+  url: https://instagram.com/andwong.insta
+  email: yiteng.wang@outlook.com
 
 # Custom vars
 version: 3.0.0
