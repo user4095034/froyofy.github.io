@@ -4,7 +4,7 @@ title: 关于我
 ---
 
 <p class="message">
-  欢迎光临
+  欢迎
 </p>
 
 
